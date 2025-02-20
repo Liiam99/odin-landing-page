@@ -201,3 +201,10 @@ body {
     flex: none;
     font-size: 18px;
 }
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    color: #F9FAF8;
+    padding: 40px 0px;
+}
