@@ -162,3 +162,42 @@ body {
     font-weight: 500;
     font-size: 24px;
 }
+
+.action {
+    display: flex;
+    justify-content: center;
+    margin: 100px 0px;
+}
+
+.action-container {
+    background-color: #3882F6;
+    padding: 50px 125px;
+    max-width: 1000px;
+    flex: auto;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.action-header {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 800;
+}
+
+.action-text {
+    color: #F9FAF8;
+    font-weight: 300;
+}
+
+.action-button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-weight: 800;
+    padding: 7px 30px;
+    border-radius: 7px;
+    border: 2px solid white;
+    flex: none;
+    font-size: 18px;
+}
